@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+*.ithmb
+.vscode/*
+!.vscode/extensions.json
+*.egg-info/
+build/
+dist/
